@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6em;
+  font-family: sans-serif;
+}
+.container {
+  background-color: aqua;
+  /* height: 100vh; */
+}
+
+.header {
+  text-align: center;
+}
+
+.hd-margin {
+  margin-bottom: 100px;
+}
+
+.ph-margin {
+  margin-left: 35px;
+  margin-bottom: 60px;
+}
+
+.secondary-header {
+  color: rgb(0, 94, 255);
+  margin-left: 10px;
+}
+
+.margin-left {
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+
+.thirdary-title {
+  color: rgb(0, 94, 255);
+  margin-left: 10px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+}
